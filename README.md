@@ -6,7 +6,7 @@ go-lucener is a Go library for building [Lucene compatable expressions](https://
 
 **Build Status:** [![Build Status](https://travis-ci.org/roadrunner/go-lucener.svg?branch=master)](https://travis-ci.org/roadrunner/go-lucener)
 
-go-lucener requires Go version 1.5 or greater.
+go-lucener requires Go version 1.7 or greater.
 
 ## Example
 
