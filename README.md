@@ -2,9 +2,9 @@
 
 go-lucener is a Go library for building [Lucene compatable expressions](https://github.com/Stratio/cassandra-lucene-index) for [Cassandra driver](https://github.com/gocql/gocql)
 
-**Documentation:** [![GoDoc](https://godoc.org/github.com/roadrunner/go-lucener/travis?status.svg)](https://godoc.org/github.com/roadrunner/go-lucener)
+**Documentation:** [![GoDoc](https://godoc.org/github.com/engin/go-lucener/travis?status.svg)](https://godoc.org/github.com/engin/go-lucener)
 
-**Build Status:** [![Build Status](https://travis-ci.org/roadrunner/go-lucener.svg?branch=master)](https://travis-ci.org/roadrunner/go-lucener)
+**Build Status:** [![Build Status](https://travis-ci.org/engin/go-lucener.svg?branch=master)](https://travis-ci.org/engin/go-lucener)
 
 go-lucener requires Go version 1.5 or greater.
 
